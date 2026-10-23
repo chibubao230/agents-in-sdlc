@@ -17,11 +17,11 @@ Todos os workshops criam o mesmo Space Quiz a partir de uma pasta vazia, para qu
 
 ### [Tour do aplicativo GitHub Copilot][copilot-app]
 
-Crie um Space Quiz colorido a partir de uma pasta vazia e percorra o ciclo de desenvolvimento: criar, aprimorar, testar, registrar instruções do projeto, publicar, planejar o trabalho, implementar issues, revisar e mesclar um pull request, automatizar tarefas recorrentes e explorar uma extensão de Canvas.
+Crie um Space Quiz colorido a partir de uma pasta vazia e percorra o ciclo de desenvolvimento: criar, aprimorar, testar, registrar instruções do projeto, publicar, planejar o trabalho, implementar issues, revisar e mesclar um pull request, automatizar tarefas recorrentes, explorar um fluxo de trabalho com Canvas e publicar o site com o GitHub Pages.
 
 ### [Primeiros passos com o GitHub Copilot CLI][copilot-cli]
 
-Conheça o ciclo centrado no terminal: crie o projeto e revise os diffs antes de qualquer gravação no Git, execute sessões lado a lado em worktrees, planeje antes de editar, gerencie o contexto e, depois, crie, mescle e delegue trabalho sem sair do shell.
+Conheça o fluxo de trabalho pelo terminal: instale o Copilot CLI, implemente uma alteração pequena e uma funcionalidade maior com os modos Plan e Autopilot, personalize as instruções e as skills, teste com o MCP do Playwright, crie um agente de QA, revise e mescle o pull request e explore comandos slash úteis.
 
 ### [Primeiros passos com o Visual Studio Code][vscode]
 
